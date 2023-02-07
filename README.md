@@ -21,7 +21,7 @@
 			1
 		</td>
 		<td>
-			<a href="https://github.com/lpesaro/ft_printf">Libft</a>
+			<a href="https://github.com/lpesaro/libft">Libft</a>
 		</td>
 		<td>
 			C
@@ -38,7 +38,7 @@
 			1
 		</td>
 		<td>
-			<a href="https://github.com/lpesaro/libft">ft_printf</a>
+			<a href="https://github.com/lpesaro/ft_printf">ft_printf</a>
 		</td>
 		<td>
 			C
